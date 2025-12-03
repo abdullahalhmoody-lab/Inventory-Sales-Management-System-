@@ -75,7 +75,7 @@ namespace Inventory_Sales_Management_Systemm
             }
 
             // إذا لم نجد المستخدم في أي جدول
-            MessageBox.Show("⚠ اسم المستخدم أو كلمة المرور غير صحيحة");
+            MessageBox.Show(" اسم المستخدم أو كلمة المرور غير صحيحة");
         }
 
         private void txtUsername_TextChanged(object sender, EventArgs e)

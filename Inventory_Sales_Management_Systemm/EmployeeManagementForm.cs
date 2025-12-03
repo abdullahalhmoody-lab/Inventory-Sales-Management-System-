@@ -17,18 +17,17 @@ namespace Inventory_Sales_Management_Systemm
             InitializeComponent();
         }
 
-        // ================================
+        
         // عند تحميل الفورم
-        // ================================
         private void EmployeeManagementForm_Load(object sender, EventArgs e)
         {
             LoadRoles();
             LoadEmployees();
         }
 
-        // ================================
+        
         // الرجوع الذكي
-        // ================================
+        
         private void button1_Click(object sender, EventArgs e)
         {
             if (PreviousForm == "MainForm")
@@ -47,9 +46,9 @@ namespace Inventory_Sales_Management_Systemm
             this.Close();
         }
 
-        // ================================
+        
         // تحميل الصلاحيات
-        // ================================
+       
         private void LoadRoles()
         {
             string query = "SELECT RoleId, RoleName FROM Roles";
@@ -61,9 +60,9 @@ namespace Inventory_Sales_Management_Systemm
             cmbRole.SelectedIndex = -1;
         }
 
-        // ================================
+       
         // تحميل الموظفين
-        // ================================
+       
         private void LoadEmployees()
         {
             string query =
@@ -90,9 +89,8 @@ namespace Inventory_Sales_Management_Systemm
             }
         }
 
-        // ================================
+        
         // اختيار عنصر من الجدول
-        // ================================
         private void dgvEmployees_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex < 0) return;
@@ -104,9 +102,9 @@ namespace Inventory_Sales_Management_Systemm
             cmbRole.Text = dgvEmployees.Rows[e.RowIndex].Cells[3].Value.ToString();
         }
 
-        // ================================
+        
         // زر جديد
-        // ================================
+        
         private void btnNew_Click_1(object sender, EventArgs e)
         {
             selectedId = 0;
@@ -115,9 +113,9 @@ namespace Inventory_Sales_Management_Systemm
             cmbRole.SelectedIndex = -1;
         }
 
-        // ================================
+        
         // بحث
-        // ================================
+        
         private void btnSearch_Click(object sender, EventArgs e)
         {
             string name = txtUsername.Text.Trim();
@@ -153,9 +151,9 @@ namespace Inventory_Sales_Management_Systemm
             }
         }
 
-        // ================================
+       
         // إضافة موظف
-        // ================================
+       
         private void btnEdit_Click(object sender, EventArgs e)
         {
             if (txtUsername.Text.Trim() == "" ||
@@ -179,13 +177,13 @@ namespace Inventory_Sales_Management_Systemm
                 new SqlParameter("@p", hashed),
                 new SqlParameter("@r", cmbRole.SelectedValue));
 
-            MessageBox.Show("✔ تم إضافة الموظف بنجاح");
+            MessageBox.Show(" تم إضافة الموظف بنجاح");
             LoadEmployees();
         }
 
-        // ================================
+        
         // تحديث بيانات الموظف
-        // ================================
+        
         private void btnSave_Click(object sender, EventArgs e)
         {
             if (selectedId == 0)
@@ -206,13 +204,13 @@ namespace Inventory_Sales_Management_Systemm
                 new SqlParameter("@r", cmbRole.SelectedValue),
                 new SqlParameter("@id", selectedId));
 
-            MessageBox.Show("✔ تم تعديل الموظف");
+            MessageBox.Show(" تم تعديل الموظف");
             LoadEmployees();
         }
 
-        // ================================
+        
         // حذف الموظف
-        // ================================
+        
         private void btnDelete_Click(object sender, EventArgs e)
         {
             if (selectedId == 0)
@@ -229,7 +227,7 @@ namespace Inventory_Sales_Management_Systemm
 
             DBHelper.ExecuteCommand(query, new SqlParameter("@id", selectedId));
 
-            MessageBox.Show("✔ تم حذف الموظف بنجاح");
+            MessageBox.Show(" تم حذف الموظف بنجاح");
 
             LoadEmployees();
         }

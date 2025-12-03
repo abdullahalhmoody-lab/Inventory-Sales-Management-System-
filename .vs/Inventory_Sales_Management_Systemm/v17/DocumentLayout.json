@@ -3,51 +3,75 @@
   "WorkspaceRootPath": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Inventory_Sales_Management_Systemm||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.InvoiceItems.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.Roles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.UsersLogin.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,63 +82,16 @@
       "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|d:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\inventory_sales_management_systemm\\inventory_sales_management_systemm\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\mainform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\customersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\reportsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\reportsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\salesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\salesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.Customers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\customersform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\customersform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\inventory_sales_management_systemm\\mainform2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|solutionrelative:inventory_sales_management_systemm\\mainform2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.UsersLogin.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\AppData\\Local\\Temp\\hcyn1uez..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\AppData\\Local\\Temp\\30hghchv..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEC0C91-ADC2-48E4-A79B-1297B3CC8B85}|Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj|d:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\inventory_sales_management_systemm\\inventory_sales_management_systemm\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -124,343 +101,276 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "dbo.UsersLogin.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.UsersLogin.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.UsersLogin.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-29T20:46:06.941Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ReportsForm.resx",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ReportsForm.resx",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\ReportsForm.resx",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ReportsForm.resx",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\ReportsForm.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-11-30T16:18:05.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SalesForm.Designer.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SalesForm.Designer.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\SalesForm.Designer.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SalesForm.Designer.cs",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\SalesForm.Designer.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAowKYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T15:29:18.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "dbo.Customers.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.Customers.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.Customers.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-30T14:54:21.117Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "SalesForm.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SalesForm.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\SalesForm.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SalesForm.cs",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\SalesForm.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAIwCwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T00:41:39.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReportsForm.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ReportsForm.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\ReportsForm.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ReportsForm.cs*",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\ReportsForm.cs*",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAAAFkAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T00:40:26.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MainForm2.resx",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm2.resx",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\MainForm2.resx",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm2.resx",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\MainForm2.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-11-30T00:02:50.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MainForm2.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm2.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\MainForm2.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm2.cs",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\MainForm2.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAApwBIAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T23:53:33.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "hcyn1uez..sql",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\hcyn1uez..sql",
-              "ToolTip": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\hcyn1uez..sql",
+              "Title": "dbo.Employees [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "dbo.Employees [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-29T20:48:17.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "30hghchv..sql",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\30hghchv..sql",
-              "ToolTip": "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\30hghchv..sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-11-29T20:47:51.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LoginForm.Designer.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\LoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\LoginForm.Designer.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\LoginForm.Designer.cs",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\LoginForm.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T20:40:17.263Z",
+              "WhenOpened": "2025-12-03T13:11:08.735Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\Program.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\Program.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\Program.cs",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T14:49:09.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CustomersForm.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\CustomersForm.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\CustomersForm.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\CustomersForm.cs",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\CustomersForm.cs",
-              "ViewState": "AgIAALkAAAAAAAAAAAAmwMwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T14:48:53.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CustomersForm.resx",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\CustomersForm.resx",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\CustomersForm.resx",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\CustomersForm.resx",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\CustomersForm.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-11-29T14:48:48.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Inventory_Sales_Management_Systemm",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-29T14:47:48.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\MainForm.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm.cs",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T14:45:30.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductsForm.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ProductsForm.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\ProductsForm.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ProductsForm.cs*",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\ProductsForm.cs*",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwAwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:41:00.61Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginForm.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\LoginForm.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\LoginForm.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\LoginForm.cs",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\LoginForm.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswB8AAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:38:48.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EmployeeManagementForm.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs*",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs*",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAUwMkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:36:18.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DBHelper.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\DBHelper.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\DBHelper.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\DBHelper.cs",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\DBHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:35:37.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "SecurityHelper.cs",
-              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SecurityHelper.cs",
-              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\SecurityHelper.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SecurityHelper.cs",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\SecurityHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:27:07.85Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "dbo.Customers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.Customers.sql",
+              "ToolTip": "dbo.Customers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-03T13:11:02.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.InvoiceItems.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.InvoiceItems.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.InvoiceItems.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-02T19:31:47.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "SalesForm.cs [Design]",
               "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SalesForm.cs",
               "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\SalesForm.cs",
               "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SalesForm.cs [Design]",
               "RelativeToolTip": "Inventory_Sales_Management_Systemm\\SalesForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:26:20.814Z",
+              "WhenOpened": "2025-12-02T19:10:10.153Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "ReportsForm.cs [Design]",
               "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ReportsForm.cs",
               "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\ReportsForm.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ReportsForm.cs [Design]*",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\ReportsForm.cs [Design]*",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\ReportsForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:26:17.749Z",
+              "WhenOpened": "2025-12-02T19:10:01.037Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "ProductsForm.cs [Design]",
               "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ProductsForm.cs",
               "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\ProductsForm.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ProductsForm.cs [Design]*",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\ProductsForm.cs [Design]*",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ProductsForm.cs [Design]",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\ProductsForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:26:11.399Z",
+              "WhenOpened": "2025-12-02T19:09:52.455Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "MainForm2.cs [Design]",
               "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm2.cs",
               "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\MainForm2.cs",
               "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm2.cs [Design]",
               "RelativeToolTip": "Inventory_Sales_Management_Systemm\\MainForm2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:26:06.181Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-02T19:09:41.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm.cs",
               "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\MainForm.cs",
               "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm.cs [Design]",
               "RelativeToolTip": "Inventory_Sales_Management_Systemm\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:25:59.32Z",
+              "WhenOpened": "2025-12-02T19:09:27.246Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "LoginForm.cs [Design]",
               "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\LoginForm.cs",
               "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\LoginForm.cs",
               "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\LoginForm.cs [Design]",
               "RelativeToolTip": "Inventory_Sales_Management_Systemm\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:25:54.238Z",
+              "WhenOpened": "2025-12-02T19:09:12.145Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "dbo.Roles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.Roles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.Roles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-02T18:57:30.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.UsersLogin.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.UsersLogin.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/InventoryDB1/True/SqlTable/dbo.UsersLogin.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-12-02T18:57:20.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\SecurityHelper.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SecurityHelper.cs",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\SecurityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:36:05.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SalesForm.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SalesForm.cs",
+              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\SalesForm.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\SalesForm.cs",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\SalesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:35:37.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportsForm.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\ReportsForm.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ReportsForm.cs",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\ReportsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:35:05.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\Program.cs",
+              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\Program.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\Program.cs",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:34:37.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsForm.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\ProductsForm.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\ProductsForm.cs",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\ProductsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:34:05.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm2.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm2.cs",
+              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\MainForm2.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm2.cs",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\MainForm2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:33:28.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm.cs",
+              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\MainForm.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\MainForm.cs",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:32:55.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\LoginForm.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\LoginForm.cs",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\LoginForm.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:32:19.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeManagementForm.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs",
+              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAgwO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:31:43.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EmployeeManagementForm.cs [Design]",
               "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs",
               "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs",
-              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs [Design]*",
-              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs [Design]*",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs [Design]",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\EmployeeManagementForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:25:45.984Z",
+              "WhenOpened": "2025-12-02T17:31:39.796Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\DBHelper.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\DBHelper.cs",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\DBHelper.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:30:30.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomersForm.cs",
+              "DocumentMoniker": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\CustomersForm.cs",
+              "RelativeDocumentMoniker": "Inventory_Sales_Management_Systemm\\CustomersForm.cs",
+              "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\CustomersForm.cs",
+              "RelativeToolTip": "Inventory_Sales_Management_Systemm\\CustomersForm.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAYwMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:28:16.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -471,7 +381,7 @@
               "ToolTip": "D:\\\u0627\u0644\u0642\u0631\u0635 e\\\u0645\u0634\u0627\u0631\u064A\u0639\\\u0645\u0634\u0631\u0648\u0639 \u0646\u0638\u0627\u0645 \u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\\u0645\u0634\u0631\u0648\u0639 \u0627\u062F\u0627\u0631\u0629 \u0627\u0644\u0645\u0628\u064A\u0639\u0627\u062A \u0648\u0627\u0644\u0645\u062E\u0632\u0648\u0646\\Inventory_Sales_Management_Systemm\\Inventory_Sales_Management_Systemm\\CustomersForm.cs [Design]",
               "RelativeToolTip": "Inventory_Sales_Management_Systemm\\CustomersForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T13:25:12.29Z",
+              "WhenOpened": "2025-12-02T17:28:05.721Z",
               "EditorCaption": " [Design]"
             }
           ]

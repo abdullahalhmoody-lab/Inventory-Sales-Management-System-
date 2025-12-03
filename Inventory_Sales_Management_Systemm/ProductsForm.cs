@@ -168,9 +168,8 @@ namespace Inventory_Sales_Management_Systemm
             }
         }
 
-        // =====================================================
         // حذف المنتج
-        // =====================================================
+        
         private void btnDelete_Click(object sender, EventArgs e)
         {
             if (selectedId == 0)

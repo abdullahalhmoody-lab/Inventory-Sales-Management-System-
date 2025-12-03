@@ -1,4 +1,4 @@
-﻿using System;
+﻿               using System;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
@@ -9,7 +9,7 @@ namespace Inventory_Sales_Management_Systemm
     {
         int selectedId = 0; // حفظ رقم العميل المختار
 
-        // ⭐ متغير لمعرفة من أين دخل المستخدم
+        //  متغير لمعرفة من أين دخل المستخدم
         public string PreviousForm { get; set; }
 
         public CustomersForm()
@@ -17,17 +17,16 @@ namespace Inventory_Sales_Management_Systemm
             InitializeComponent();
         }
 
-        // =====================================================
         // تحميل الصفحة
-        // =====================================================
+        
         private void CustomersForm_Load(object sender, EventArgs e)
         {
             LoadCustomers();
         }
 
-        // =====================================================
+        
         // الرجوع الذكي حسب الصفحة السابقة
-        // =====================================================
+        
         private void button1_Click(object sender, EventArgs e)
         {
             if (PreviousForm == "MainForm")
@@ -46,9 +45,8 @@ namespace Inventory_Sales_Management_Systemm
             this.Close();
         }
 
-        // =====================================================
         // تحميل بيانات العملاء إلى الجدول
-        // =====================================================
+        
         private void LoadCustomers()
         {
             string query = "SELECT * FROM Customers ORDER BY CustomerId DESC";
@@ -67,9 +65,9 @@ namespace Inventory_Sales_Management_Systemm
             }
         }
 
-        // =====================================================
+        
         // زر إضافة عميل
-        // =====================================================
+        
         private void btnAdd_Click(object sender, EventArgs e)
         {
             if (txtFullName.Text.Trim() == "")
@@ -87,14 +85,12 @@ namespace Inventory_Sales_Management_Systemm
                 new SqlParameter("@email", txtEmail.Text)
             );
 
-            MessageBox.Show("✔ تم إضافة العميل بنجاح");
+            MessageBox.Show(" تم إضافة العميل بنجاح");
             ClearInputs();
             LoadCustomers();
         }
 
-        // =====================================================
         // زر تعديل البيانات
-        // =====================================================
         private void btnEdit_Click(object sender, EventArgs e)
         {
             if (selectedId == 0)
@@ -120,9 +116,8 @@ namespace Inventory_Sales_Management_Systemm
             LoadCustomers();
         }
 
-        // =====================================================
         // زر حذف
-        // =====================================================
+        
         private void btnDelete_Click(object sender, EventArgs e)
         {
             if (selectedId == 0)
@@ -140,15 +135,13 @@ namespace Inventory_Sales_Management_Systemm
                 new SqlParameter("@id", selectedId)
             );
 
-            MessageBox.Show("✔ تم حذف العميل");
+            MessageBox.Show(" تم حذف العميل");
 
             ClearInputs();
             LoadCustomers();
         }
 
-        // =====================================================
         // عند الضغط على صف داخل الجدول
-        // =====================================================
         private void gridCustomers_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0)
@@ -161,9 +154,8 @@ namespace Inventory_Sales_Management_Systemm
             }
         }
 
-        // =====================================================
         // البحث
-        // =====================================================
+        
         private void textSearch_TextChanged(object sender, EventArgs e)
         {
             string keyword = textSearch.Text;
@@ -190,9 +182,8 @@ namespace Inventory_Sales_Management_Systemm
             }
         }
 
-        // =====================================================
+        
         // تنظيف الحقول
-        // =====================================================
         private void ClearInputs()
         {
             selectedId = 0;

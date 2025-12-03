@@ -5,10 +5,9 @@ namespace Inventory_Sales_Management_Systemm
     partial class LoginForm
     {
         private System.ComponentModel.IContainer components = null;
-
-        /// <summary>
-        /// Clean up any resources being used.
-        /// </summary>
+        //=========================================
+        
+        
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))

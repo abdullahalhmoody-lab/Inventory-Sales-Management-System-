@@ -8,7 +8,7 @@ namespace Inventory_Sales_Management_Systemm
     {
         private static string connectionString =
             @"Server=(localdb)\MSSQLLocalDB; Database=InventoryDB1; Integrated Security=True";
-
+ 
         // INSERT – UPDATE – DELETE
         public static int ExecuteCommand(string query, params SqlParameter[] parameters)
         {
